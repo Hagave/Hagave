@@ -2,24 +2,19 @@
 
 ## 🛠 Áreas:
 ### • Desenvolvimento Front-End/Back-End 💻
-### • Análise de Dados/Sistemas 📊 
-### • Engenheiro de Software 🔧 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 💼 Competências:
-### • Inglês Fluente C1 📘 
-
+### • Inglês Fluente C1 IELTS 📘 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 
 Social:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heverton-vinicius/)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 
 ### Tecnologias
 
@@ -42,8 +37,6 @@ Social:
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]()
 
-
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 Ferramentas:
@@ -53,14 +46,12 @@ Ferramentas:
 [![Notion](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white)]()
 [![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)]()
 
-
 Contato:
 
 📧 hagavepro@gmail.com
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hagave&show_icons=true&theme=tokyonight)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=afeifz&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hagave&layout=compact&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afeifz&layout=compact&theme=tokyonight)
-
-![Snake animation](https://github.com/afeifz/afeifz/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Hagave/Hagave/blob/output/github-contribution-grid-snake.svg)
