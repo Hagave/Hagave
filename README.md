@@ -49,6 +49,9 @@ Ferramentas:
 Contato:
 
 📧 hagavepro@gmail.com
+### 📊 GitHub Stats:
+
+![Hagave's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hagave&count_private=true&show_icons=true&theme=tokyonight)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hagave&show_icons=true&theme=tokyonight)
 
