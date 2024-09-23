@@ -51,13 +51,9 @@ Contato:
 📧 hagavepro@gmail.com
 ### 📊 GitHub Stats:
 
-![Hagave's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hagave&count_private=true&show_icons=true&theme=tokyonight)
-### 🔥 Linguagens Mais Usadas:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hagave&layout=compact&theme=tokyonight&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hagave&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&token=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)
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hagave&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hagave&layout=compact&theme=tokyonight)
 
